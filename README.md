@@ -233,6 +233,7 @@ MIT. Free forever. Go build something.
 
 ## Friend Links
 - [GoLang] https://www.golangde.cn
+- [Bun] https://www.bunjs.com.cn
 - [Unocss] https://www.unocss.com.cn
 - [NVM] https://www.nvmnode.com
 - [volta] https://www.voltajs.com
