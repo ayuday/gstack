@@ -230,3 +230,11 @@ Available skills: /office-hours, /plan-ceo-review, /plan-eng-review, /plan-desig
 ## License
 
 MIT. Free forever. Go build something.
+
+## Friend Links
+- [GoLang] https://www.golangde.cn
+- [Unocss] https://www.unocss.com.cn
+- [NVM] https://www.nvmnode.com
+- [volta] https://www.voltajs.com
+- [Sharpjs] https://www.sharpjs.cn
+- [Bootstrap Table] https://www.bootstraptable.com
